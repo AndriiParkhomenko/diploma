@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diploma/static/css/main.c12642e4.css",
+    "main.css": "/diploma/static/css/main.478da9f8.css",
     "main.js": "/diploma/static/js/main.058f94e1.js",
     "static/js/787.ba2a74c8.chunk.js": "/diploma/static/js/787.ba2a74c8.chunk.js",
     "static/media/uniforms.jpg": "/diploma/static/media/uniforms.adafebc0c1a8cc2df589.jpg",
@@ -23,12 +23,12 @@
     "static/media/geo.svg": "/diploma/static/media/geo.847926c36a3186f94bd8.svg",
     "static/media/email.svg": "/diploma/static/media/email.9bfe09279c0c657c243a.svg",
     "static/media/arrow.svg": "/diploma/static/media/arrow.0bdea75f9aa2f7d1bc28.svg",
-    "main.c12642e4.css.map": "/diploma/static/css/main.c12642e4.css.map",
+    "main.478da9f8.css.map": "/diploma/static/css/main.478da9f8.css.map",
     "main.058f94e1.js.map": "/diploma/static/js/main.058f94e1.js.map",
     "787.ba2a74c8.chunk.js.map": "/diploma/static/js/787.ba2a74c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c12642e4.css",
+    "static/css/main.478da9f8.css",
     "static/js/main.058f94e1.js"
   ]
 }
